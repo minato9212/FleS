@@ -1,8 +1,8 @@
-import {TempoAnalyzer} from './include/TempoAnalyzer.js';
+//import {TempoAnalyzer} from './include/TempoAnalyzer.js';
 
 const init = ()=>{
 	alert('init');
-	const analyzer = new TempoAnalyzer();
+	//const analyzer = new TempoAnalyzer();
 }
 
 document.addEventListener('DOMContentLoaded', init);
