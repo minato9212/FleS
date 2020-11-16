@@ -1,4 +1,4 @@
-import TempoAnalyzer from './include/TempoAnalyzer.js';
+import {TempoAnalyzer} from './include/TempoAnalyzer.js';
 
 const init = ()=>{
 	alert('init');
