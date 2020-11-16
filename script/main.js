@@ -1,7 +1,7 @@
 import TempoAnalyzer from './include/TempoAnalyzer.js';
 
 const init = ()=>{
-	console.log('init');
+	alert('init');
 	const analyzer = new TempoAnalyzer();
 }
 
