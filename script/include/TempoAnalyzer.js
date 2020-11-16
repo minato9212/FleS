@@ -23,7 +23,7 @@ const TempoAnalyzer = class{
 		}
 	}
 	loaded(){
-		console.log('loaded');
+		alert('loaded');
 	}
 }
 
